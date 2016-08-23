@@ -1,0 +1,57 @@
+.content-wrapper {
+  height: 1000px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.icon-box {
+  height: 120px;
+  width: 120px;
+  margin-top: 10px;
+  margin-left: 35px;
+}
+
+.info-holder {
+  overflow: hidden;
+}
+
+.info {
+  margin-top: 6%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: left;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+.row {
+  width: 100%;
+  height: 14.285%;
+  overflow: hidden;
+}
+
+.grey {
+  background-color: #d2d2d2;
+}
+
+.blue {
+  background-color: #4085de;
+}
+
+.info-holder {
+  width: 100%;
+  height: 28.571%;
+  background-color: #ffffff;
+}
+
+.teal {
+  background-color: #46dfba;
+}
+
+.lime-green {
+  background-color: #afe57b;
+}
+
+.yellow {
+  background-color: #f7e31b;
+}
